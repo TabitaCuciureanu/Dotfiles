@@ -6,19 +6,19 @@ alias .....="cd ../../../.."
 
 # Directories
 
-alias dotfiles="cd $DOTFILES"
-alias dots="dotfiles"
+# alias dotfiles="cd $DOTFILES"
+# alias dots="dotfiles"
 
-alias library="cd $HOME/Library"
+# alias library="cd $HOME/Library"
 
 alias downloads="cd $HOME/Downloads"
 alias dls="downloads"
 
-alias projects="cd $HOME/Developer/Personal"
-alias prjs="projects"
+# alias projects="cd $HOME/Developer/Personal"
+# alias prjs="projects"
 
-alias work="cd $HOME/Developer/Work"
-alias wrk="work"
+# alias work="cd $HOME/Developer/Work"
+# alias wrk="work"
 
 # Git
 
