@@ -37,4 +37,4 @@ Your Mac is now ready to use!
 
 ## License
 
-This source code is is free and unencumbered software released into the public domain. Go wild!
+This source code is free and unencumbered software released into the public domain. Go wild!
