@@ -4,7 +4,7 @@
 
 # Productivity & Utilities
 cask '1password'						# Password Manager
-cask 'adobe-acrobat-reader'				# PDF reader used for digital signatures
+# cask 'adobe-acrobat-reader'				# PDF reader used for digital signatures
 brew 'blueutil'							# Command-line Bluetooth utility
 # brew 'mackup'							# Backup utility for macOS settings
 # cask 'craft'							# Note-taking and collaboration
@@ -12,7 +12,7 @@ cask 'notion'							# Note-taking and collaboration
 cask 'raycast'							# Spotlight replacement
 cask 'sanesidebuttons'					# Mouse side button utility
 cask 'the-unarchiver'					# File extractor
-cask 'microsoft-outlook'				# Email client
+# cask 'microsoft-outlook'				# Email client
 # cask 'transmission'					# Torrent client
 # cask 'obsidian'						# Note-taking and knowledge management
 

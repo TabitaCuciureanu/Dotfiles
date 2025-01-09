@@ -52,5 +52,8 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
 
+# Activate mise
+eval "$(mise activate zsh)"
+
 # Load starship
 eval "$(starship init zsh)"
